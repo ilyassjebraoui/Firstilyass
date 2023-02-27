@@ -45,7 +45,7 @@ h2 {
 #main {
      background: white;
      width: 600px;
-     height: 1500px;
+     height: 1650px;
      padding-left: 25px;
      padding-top: 12px;
      margin-top: 35px;
@@ -61,7 +61,7 @@ h2 {
      margin-top: 30px;
 }
 .underpic {
-     font-size: 12px;
+     font-size: 20px;
      margin: 7px 0 0 0;
 }
 #sidebar {
@@ -104,6 +104,12 @@ blockquote {
 }
 #footer {
      margin-top: 10px;
+     text-align: center;
+}
+.pictures {
+     width: 550px;
+     height: auto;
+     border-radius: 7px;
 }
 /*----------------------------------------------------------------------------- 
 03=MAIN  
